@@ -2,7 +2,7 @@
 
 include page.php;
 
-public class homepage extends page{
+class homepage extends page{
 
 	class homepage extends page {	
 		public function get() {
