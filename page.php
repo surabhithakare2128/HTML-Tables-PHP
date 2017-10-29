@@ -5,7 +5,7 @@ abstract class page{
 
 	public function __construct(){
 		$this->html .= "<html>";
-		$this->html .= "<link rel="stylesheet" href="styles.css">";
+		//$this->html .= "<link rel="stylesheet" href="styles.css">";
 		$this->html .= "<body>";
 	}
 
@@ -31,4 +31,4 @@ class stringFunctions{
 
 }
 
->?
+?>
