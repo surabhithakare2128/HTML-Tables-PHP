@@ -1,4 +1,6 @@
 <?php include homepage.php;
+include page.php;
+include htmltables.php;
 
 ini_set('display_errors', 'On');
 error_reporting(E_ALL);
